@@ -5,7 +5,7 @@ m1[0] = 0;
     recursion = 256;
 
 
-    // while((once == 0 and recursion != 0) or (once == 1))
+
     while(recursion != 0)
     {
 
