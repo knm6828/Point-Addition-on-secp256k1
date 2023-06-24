@@ -3,7 +3,7 @@
 // s_2_x unsigned long[4]
 // k1 unsigned long[4]
 // p unsigned long[4]
-// for(looper = 0; looper < 0xffff; looper++){ Looper used to run 5 files together over 0xff times
+// for(looper = 0; looper < 0xffff; looper++){ Looper used to run 5 files together over 0xffff times
 temp_overflow[0] = 0; temp_overflow[1] = 0; temp_overflow[2] = 0; temp_overflow[3] = 0;
 if (point_x[3] > MAX_VALUE_LONG - s_2_x[3])
 {
